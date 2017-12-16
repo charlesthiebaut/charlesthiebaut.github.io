@@ -6,7 +6,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
+        <ul class="social-media-list">
           <li>
             {% if site.author %}
               {{ site.author | escape }}
@@ -15,9 +15,9 @@
             {% endif %}
             </li>
             {% if site.email %}
-            <li><a href="mailto:{{ Charles Thiebaut }}">{{ site.email }}</a></li>
-            <li><a href="mailto:{{ Isaac Leimgruber }}">{{ isaac.leimgruber@epfl.ch }}</a></li>
-            <li><a href="mailto:{{ Kevin Kappel }}">{{ kevin.kappel@epfl.ch }}</a></li>
+            <li><a href="mailto:{{site.email}}">{{site.email}}</a></li>
+            <li><a href="mailto:isaac.leimgruber@epfl.ch">isaac.leimgruber@epfl.ch</a><li>
+            <li><a href="mailto:kevin.kappel@epfl.ch">kevin.kappel@epfl.ch</a></li>
             {% endif %}
         </ul>
       </div>
@@ -26,8 +26,18 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
-            {% include icon-github.html username=site.github_username %}
+              <a href="IsaacLeimgruber/ADA_labs_repo/tree/master/Project"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username"><br>Project Page</span></a>
+          </li> 
+          <li>
+            <a href="https://github.com/charlesthiebaut">Charles Thiebaut</a>
           </li>
+           <li>
+            <a href="https://github.com/IsaacLeimgruber">Isaac Leimgruber</a>
+          </li>
+           <li>
+            <a href="https://github.com/kevin-01">Kevin Kappel</a>
+          </li>
+          
           {% endif %}
         </ul>
       </div>
