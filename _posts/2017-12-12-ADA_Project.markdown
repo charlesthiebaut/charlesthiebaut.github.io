@@ -8,7 +8,14 @@ IIn this project we explore the evolution of the Swiss energy during roughly 100
 
 This first graph shows the percentage of each energy source in Switzerland over the years. Checkboxes on the top lets you choose between them. By clicking on one curve you will get more details on the production of energy coming from that source in Switzerland. Information includes maps, images as well as textual description of that source in Switzerland.  <br>
 
-In the second graph energy is measured  in…
+In the second graph, the energy measured for oil, coal, industrial waste and gas is in Tera joules. For wood, hydro and renewable energy, it is in MW / h and finally for nuclear energy in% (percentage).
+Since there are big differences between the different energies, it was necessary to choose units to have the best visualization for each one of them.
+
+For oil, coal, industrial waste and gas, the second graph shows the total consumption for these energy in Switzerland.
+
+For wood, hydraulic and "other renewable" energies, the second graph represent the energy production of those sources.
+
+For nuclear, it represents the percentage of production of each plant over the years.
 
 <iframe title="ADA project iframe" src="https://rawgit.com/IsaacLeimgruber/ADA_labs_repo/master/Project/TestWebsite/template/index.html" width="1000" height="1000">
   <p>Your browser does not support iframes.</p>
