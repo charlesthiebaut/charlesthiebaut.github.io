@@ -4,7 +4,7 @@ title:  "Evolution of Swiss Energy Production and Consumption"
 date:   2017-12-12 13:08:03 +0100
 categories: jekyll update
 ---
-IIn this project we explore the evolution of the Swiss energy during roughly 100 years and determine the rate of the energy transition. The goal is to understand how the energy consumption evolved during a set period and analyse whether the energetic transition is on its way or not. <br>Please find below an easy informative and pedagogic tool that shows straightforward insight into the Swiss energetic climate and its past evolutions. 
+In this project we explore the evolution of the Swiss energy during roughly 100 years and determine the rate of the energy transition. The goal is to understand how the energy consumption evolved during a set period and analyse whether the energetic transition is on its way or not. <br>Please find below an easy informative and pedagogic tool that shows straightforward insight into the Swiss energetic climate and its past evolutions. 
 
 This first graph shows the percentage of each energy source in Switzerland over the years. Checkboxes on the top lets you choose between them. By clicking on one curve you will get more details on the production of energy coming from that source in Switzerland. Information includes maps, images as well as textual description of that source in Switzerland.  <br>
 
