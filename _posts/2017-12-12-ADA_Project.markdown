@@ -11,7 +11,7 @@ This first graph shows the percentage of each energy source in Switzerland over 
 In the second graph, the energy measured :
 
 - For oil, coal, industrial waste and gas is in Tera joules. 
-- For hydraulic and renewable energy, it is in MW / h.
+- For hydraulic and renewable energy, it is in MW / h (mega watts per hour).
 - For wood, it's in m^3 (cubic meters).
 - For nuclear energy in % (percentage).
 
