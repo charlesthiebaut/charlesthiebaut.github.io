@@ -10,9 +10,9 @@ This first graph shows the percentage of each energy source in Switzerland over 
 
 In the second graph, the energy measured :
 
-- for oil, coal, industrial waste and gas is in Tera joules. 
-- For wood, hydro and renewable energy, it is in MW / h 
-- and finally for nuclear energy in% (percentage).
+- For oil, coal, industrial waste and gas is in Tera joules. 
+- For wood, hydro and renewable energy, it is in MW / h.
+- For nuclear energy in% (percentage).
 
 Since there are big differences between the different energies, it was necessary to choose units to have the best visualization for each one of them.
 
@@ -30,4 +30,4 @@ To summarise all the texts accessible through clicks on the different energy cur
 
 Future looks however promising for Switzerland's energy production as well as consumption. The future closing of all nuclear plants means that the country has to develop new energy production sources if it doesn't want to rely on its neighbours imports. Such investments are being made in the wind power and solar industry, with an increasing number of cantons giving subsidy to individuals willing to install solar panel on their house roof for example.
 
-Description on how our work was done can be found under this [repository](https://github.com/IsaacLeimgruber/ADA_labs_repo/blob/master/Project/), including a [readme](https://github.com/IsaacLeimgruber/ADA_labs_repo/blob/master/Project/README.md) that summaries all our researches with links to many of our sources as well as a [notebook](https://github.com/IsaacLeimgruber/ADA_labs_repo/blob/master/Project/Project_Final.ipynb) containing the data importation, cleaning, processing and textual description visible in the interactive interface above. Please refer to the readme and the notebook for more information on our work, the way this website was created is explained in the [readme](https://github.com/IsaacLeimgruber/ADA_labs_repo/blob/master/Project/README.md) . Finally please find information contact in the footer below.
+Description on how our work was done can be found under this [repository](https://github.com/IsaacLeimgruber/ADA_labs_repo/blob/master/Project/), including a [readme](https://github.com/IsaacLeimgruber/ADA_labs_repo/blob/master/Project/README.md) that summaries all our researches with links to many of our sources as well as a [notebook](https://github.com/IsaacLeimgruber/ADA_labs_repo/blob/master/Project/Project_Final.ipynb) containing the data importation, cleaning, processing and textual description visible in the interactive interface above. Please refer to the readme and the notebook for more information on our work, the way this website was created is explained in the [readme](https://github.com/IsaacLeimgruber/ADA_labs_repo/blob/master/Project/README.md). Link to this website can be found repository can be found [here](https://github.com/charlesthiebaut/charlesthiebaut.github.io). Finally please find information contact in the footer below.
