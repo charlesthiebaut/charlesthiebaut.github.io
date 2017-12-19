@@ -12,7 +12,7 @@ In the second graph, the energy measured :
 
 - For oil, coal, industrial waste and gas is in Tera joules. 
 - For hydraulic and renewable energy, it is in MW / h.
-- For wood, it's in M^3.
+- For wood, it's in M^3 (Cubic meters).
 - For nuclear energy in% (percentage).
 
 Since there are big differences between the different energies, it was necessary to choose units to have the best visualization for each one of them.
